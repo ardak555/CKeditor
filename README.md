@@ -1,8 +1,9 @@
 # CKeditor
 
  # start to backend:  
- mkdir images
+
  <br/> cd backend    
+ mkdir images <br/>
  node service.js
 
 # start to frontend: 
