@@ -1,8 +1,8 @@
 # CKeditor
 
-<strong> start to backend: </strong> <br/> cd backend    
+ # start to backend:  <br/> cd backend    
  node service.js
 
-<strong > start to frontend: </strong> <br/> cd ..
+# start to frontend: <br/> cd ..
 <br/> cd frontend
 <br/> npm start
